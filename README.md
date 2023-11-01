@@ -2,11 +2,9 @@
 
 ## 🚀 About Me
 
-- I am (insert name), a **(insert major)** studying at the (insert university)! 
-- I am currently a (insert job position) for the (insert company)! 
-- I have previously worked as a (insert job position) for (insert company name)!
+- I am Absaar Ajaz, a Computer Science sophomore studying at the University of South Florida! 
 
-📚 Outside the tech world, (add your own content here!)
+📚 I love problem-solving and constantly seek opportunities to enhance my skill set. Computer Science lets me merge my analytical and creative skills meaningfully.
 
 ## 🛠️ Skills
 
@@ -16,20 +14,13 @@
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a (insert job type)!
-- I am also looking to collaborate on (insert project type)!
-- Connect with me down below!
+- I am currently looking for a software engineering internship for Summer 2024.
 
 ## 📈 Stats
 [![Absaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=(absaarajaz)](https://github.com/INSERT GITHUB USERNAME/github-readme-stats)
 
 ## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/GITHUB USERNAME)-->
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]<!---((https://www.instagram.com/INSTAGRAM USERNAME)-->
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/LINKEDIN USERNAME)-->
-[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)]<!---((https://twitter.com/TWITTER USERNAME)-->
